@@ -1,0 +1,16 @@
+.search_bar{
+    color: #DA3C43;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    padding-bottom: 5px;
+}
+.title{
+    color: #DA3C43;
+    text-align: center;
+}

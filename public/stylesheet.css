@@ -1,0 +1,93 @@
+body{
+    background-color: #FFFFFF;
+    background-color: #DA3C43;
+}
+
+.navbar{
+    background-color: #FFFFFF;
+}
+
+.logo{
+    width: 150px;
+    max-width: 100%;
+}
+
+.nav-link{
+    color: #DA3C43;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+.nav-link:hover{
+    color: #D79C2B;
+    font-style: italic;
+}
+
+.body1 a {
+    all: unset;
+}
+
+.body1 a:hover{
+    all: unset;
+}
+
+.body1{
+    background-image: url("eb2fc86502e04b4db2547432d7cbaa69.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    margin-bottom: 0%;
+}
+.form_text{
+    color: #DA3C43;
+    /* background-color: #ffff; */
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.reg_lnk{
+    color: #DA3C43;
+    font-size: 75%;
+    margin-bottom: 1%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.reg_lnk:hover{
+    color: #D79C2B;
+    font-style: italic;
+}
+
+.login_form{
+    color: #DA3C43;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    padding-bottom: 5px;
+}
+
+.submit{
+    background-color: #DA3C43;
+    border-color: #DA3C43;
+}
+
+.submit:hover{
+    background-color: #D79C2B;
+    border-color: #D79C2B;
+}
+
+#active{
+    color: #D79C2B;
+    text-shadow: #DA3C43;
+}

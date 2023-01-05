@@ -1,1 +1,1 @@
-# giu_project
+# giu-project
